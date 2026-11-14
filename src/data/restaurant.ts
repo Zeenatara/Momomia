@@ -49,3 +49,6 @@ export const restaurant = {
 
 export const mapEmbedUrl = `https://www.google.com/maps?q=${encodeURIComponent(restaurant.mapQuery)}&output=embed`;
 export const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(restaurant.mapQuery)}`;
+
+/** Hours shown in summaries ("Open daily …"); the existing site lists the same hours every day. */
+export const typicalHours = restaurant.hours[0] ?? { day: "", open: "", close: "" };

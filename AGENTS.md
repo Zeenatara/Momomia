@@ -28,3 +28,8 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project rules
+- Restaurant details live in `src/data/restaurant.ts` and the full menu in `src/data/menu.json` (exported from the live ordering site); components read only from these so content stays editable in one place.
+- `src/data/menu.ts` maps existing categories into display tabs; every category must belong to exactly one tab (guarded by `src/test/menu-data.test.ts`).
+- The site is one scrolling page composed in `src/routes/index.tsx` from `src/components/site/*`; section ids (home, about, menu, contact) drive nav highlighting.

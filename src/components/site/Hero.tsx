@@ -3,10 +3,12 @@ import { ArrowRight, Clock, MapPin } from "lucide-react";
 import heroImg from "@/assets/hero-momos.jpg";
 import { Button } from "@/components/ui/button";
 import { menuStats } from "@/data/menu";
-import { restaurant } from "@/data/restaurant";
+import { restaurant, typicalHours } from "@/data/restaurant";
+
+const short = (t: string) => t.replace(":00", "").replace(/^0/, "");
 
 export function Hero() {
-  const h = restaurant.hours[0];
+  const h = typicalHours;
   return (
     <section id="home" className="relative isolate flex min-h-[100svh] items-end overflow-hidden bg-navy-deep lg:items-center">
       <img
@@ -61,7 +63,7 @@ export function Hero() {
                 <Clock className="size-3" /> Open daily
               </dt>
               <dd className="mt-1 font-display text-lg leading-tight sm:text-xl">
-                {h.open.replace(":00", "")} – {h.close.replace(":00", "")}
+                {short(h.open)} – {short(h.close)}
               </dd>
             </div>
           </dl>
