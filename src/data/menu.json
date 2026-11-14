@@ -1,0 +1,2572 @@
+[
+ {
+  "id": "steam-momo",
+  "name": "Steam Momo",
+  "items": [
+   {
+    "name": "Chicken Momo Stall",
+    "price": 50
+   },
+   {
+    "name": "Veg Momo Stall",
+    "price": 50
+   },
+   {
+    "name": "Fish Momo",
+    "price": 179
+   },
+   {
+    "name": "Mutton Momo",
+    "price": 189
+   },
+   {
+    "name": "Chicken Momo Half",
+    "diet": "non-veg",
+    "price": 56
+   },
+   {
+    "name": "Classic Veg Momo Half",
+    "diet": "veg",
+    "price": 45
+   },
+   {
+    "name": "Classic Veg Momo",
+    "price": 79
+   },
+   {
+    "name": "Darjeeling Veg Momo",
+    "price": 89
+   },
+   {
+    "name": "Paneer Momo",
+    "price": 99
+   },
+   {
+    "name": "Cheese Momo",
+    "price": 99
+   },
+   {
+    "name": "Corn & Cheese Momo",
+    "price": 109
+   },
+   {
+    "name": "Paneer Tikka Momo",
+    "price": 119
+   },
+   {
+    "name": "Chicken Momo",
+    "price": 99
+   },
+   {
+    "name": "Darjeeling Chicken Momo",
+    "price": 109
+   },
+   {
+    "name": "Chicken & Cheese Momo",
+    "price": 119
+   },
+   {
+    "name": "Chicken Tikka Momo",
+    "price": 119
+   }
+  ]
+ },
+ {
+  "id": "fried-momo",
+  "name": "Fried Momo",
+  "items": [
+   {
+    "name": "Fish Fried Momo",
+    "price": 199
+   },
+   {
+    "name": "Mutton Fried Momo",
+    "price": 209
+   },
+   {
+    "name": "Mushroom Fried Momo",
+    "price": 119
+   },
+   {
+    "name": "Veg Fried Momo",
+    "price": 99
+   },
+   {
+    "name": "Paneer Fried Momo",
+    "price": 119
+   },
+   {
+    "name": "Cheese Fried Momo",
+    "price": 119
+   },
+   {
+    "name": "Corn & Cheese Fried Momo",
+    "price": 129
+   },
+   {
+    "name": "Paneer Tikka Fried Momo",
+    "price": 139
+   },
+   {
+    "name": "Chicken Fried Momo",
+    "price": 119
+   },
+   {
+    "name": "Chicken & Cheese Fried Momo",
+    "price": 129
+   },
+   {
+    "name": "Chicken Tikka Fried Momo",
+    "price": 139
+   }
+  ]
+ },
+ {
+  "id": "kurkure-momo",
+  "name": "Kurkure Momo",
+  "items": [
+   {
+    "name": "Chicken Kurkure Momo Half",
+    "diet": "non-veg",
+    "price": 75
+   },
+   {
+    "name": "Corn & Cheese Kurkure Momo (Half)",
+    "price": 80
+   },
+   {
+    "name": "Paneer Kurkure Momo half",
+    "diet": "veg",
+    "price": 80
+   },
+   {
+    "name": "Fish Kurkure Momo",
+    "price": 219
+   },
+   {
+    "name": "Veg Kurkure Momo (Half)",
+    "price": 69
+   },
+   {
+    "name": "Mutton Kurkure Momo",
+    "price": 229
+   },
+   {
+    "name": "Veg Kurkure Momo",
+    "price": 119
+   },
+   {
+    "name": "Paneer Kurkure Momo",
+    "price": 139
+   },
+   {
+    "name": "Cheese Kurkure Momo",
+    "price": 139
+   },
+   {
+    "name": "Corn & Cheese Kurkure Momo",
+    "price": 149
+   },
+   {
+    "name": "Paneer Tikka Kurkure Momo",
+    "price": 159
+   },
+   {
+    "name": "Chicken Kurkure Momo",
+    "price": 139
+   },
+   {
+    "name": "Chicken & Cheese Kurkure Momo",
+    "price": 149
+   },
+   {
+    "name": "Chicken Tikka Kurkure Momo",
+    "price": 159
+   }
+  ]
+ },
+ {
+  "id": "pan-fried-momo",
+  "name": "Pan Fried Momo",
+  "items": [
+   {
+    "name": "Fish Pan Fried Momo",
+    "price": 229
+   },
+   {
+    "name": "Mutton Pan Fried Momo",
+    "price": 239
+   },
+   {
+    "name": "Veg Pan Fried Momo",
+    "price": 129
+   },
+   {
+    "name": "Paneer Pan Fried Momo",
+    "price": 149
+   },
+   {
+    "name": "Cheese Pan Fried Momo",
+    "price": 149
+   },
+   {
+    "name": "Corn & Cheese Pan Fried Momo",
+    "price": 159
+   },
+   {
+    "name": "Paneer Tikka Pan Fried Momo",
+    "price": 169
+   },
+   {
+    "name": "Chicken Pan Fried Momo",
+    "price": 149
+   },
+   {
+    "name": "Chicken & Cheese Pan Fried Momo",
+    "price": 159
+   },
+   {
+    "name": "Chicken Tikka Pan Fried Momo",
+    "price": 169
+   }
+  ]
+ },
+ {
+  "id": "schezwan-momo",
+  "name": "Schezwan Momo",
+  "items": [
+   {
+    "name": "Fish Schezwan Momo",
+    "price": 239
+   },
+   {
+    "name": "Mutton Schezwan Momo",
+    "price": 249
+   },
+   {
+    "name": "Veg Schezwan Momo",
+    "price": 139
+   },
+   {
+    "name": "Paneer Schezwan Momo",
+    "price": 159
+   },
+   {
+    "name": "Cheese Schezwan Momo",
+    "price": 159
+   },
+   {
+    "name": "Corn & Cheese Schezwan Momo",
+    "price": 169
+   },
+   {
+    "name": "Paneer Tikka Schezwan Momo",
+    "price": 179
+   },
+   {
+    "name": "Chicken Schezwan Momo",
+    "price": 159
+   },
+   {
+    "name": "Chicken & Cheese Schezwan Momo",
+    "price": 169
+   },
+   {
+    "name": "Chicken Tikka Schezwan Momo",
+    "price": 179
+   }
+  ]
+ },
+ {
+  "id": "afghani-malai-momo",
+  "name": "Afghani Malai Momo",
+  "items": [
+   {
+    "name": "Fish Afgani Malai Momo",
+    "price": 249
+   },
+   {
+    "name": "Chicken Afgani Malai momo Half",
+    "price": 90
+   },
+   {
+    "name": "Mutton Afgani Malai Momo",
+    "price": 259
+   },
+   {
+    "name": "Veg Afghani Malai Momo",
+    "price": 149
+   },
+   {
+    "name": "Paneer Afghani Malai Momo",
+    "price": 169
+   },
+   {
+    "name": "Cheese Afghani Malai Momo",
+    "price": 169
+   },
+   {
+    "name": "Corn & Cheese Afghani Malai Momo",
+    "price": 179
+   },
+   {
+    "name": "Paneer Tikka Afghani Malai Momo",
+    "price": 189
+   },
+   {
+    "name": "Chicken Afghani Malai Momo",
+    "price": 169
+   },
+   {
+    "name": "Chicken & Cheese Afghani Malai Momo",
+    "price": 179
+   },
+   {
+    "name": "Chicken Tikka Afghani Malai Momo",
+    "price": 189
+   }
+  ]
+ },
+ {
+  "id": "barbeque-momo",
+  "name": "Barbeque Momo",
+  "items": [
+   {
+    "name": "Fish Barbeque Momo",
+    "price": 239
+   },
+   {
+    "name": "Mutton Barbeque Momo",
+    "price": 249
+   },
+   {
+    "name": "Veg Barbeque Momo",
+    "price": 139
+   },
+   {
+    "name": "Paneer Barbeque Momo",
+    "price": 159
+   },
+   {
+    "name": "Cheese Barbeque Momo",
+    "price": 159
+   },
+   {
+    "name": "Corn & Cheese Barbeque Momo",
+    "price": 169
+   },
+   {
+    "name": "Paneer Tikka Barbeque Momo",
+    "price": 179
+   },
+   {
+    "name": "Chicken Barbeque Momo",
+    "price": 159
+   },
+   {
+    "name": "Chicken & Cheese Barbeque Momo",
+    "price": 169
+   },
+   {
+    "name": "Chicken Tikka Barbeque Momo",
+    "price": 179
+   }
+  ]
+ },
+ {
+  "id": "chilli-garlic-momo",
+  "name": "Chilli Garlic Momo",
+  "items": [
+   {
+    "name": "Fish Chilli Garlic Momo",
+    "price": 239
+   },
+   {
+    "name": "Mutton Chilli Garlic Momo",
+    "price": 249
+   },
+   {
+    "name": "Veg Chilli Garlic Momo(Half)",
+    "price": 75
+   },
+   {
+    "name": "Veg Chilli Garlic Momo",
+    "price": 139
+   },
+   {
+    "name": "Paneer Chilli Garlic Momo",
+    "price": 159
+   },
+   {
+    "name": "Cheese Chilli Garlic Momo",
+    "price": 159
+   },
+   {
+    "name": "Corn & Cheese Chilli Garlic Momo",
+    "price": 169
+   },
+   {
+    "name": "Paneer Tikka Chilli Garlic Momo",
+    "price": 179
+   },
+   {
+    "name": "Chicken Chilli Garlic Momo",
+    "price": 159
+   },
+   {
+    "name": "Chicken & Cheese Chilli Garlic Momo",
+    "price": 169
+   },
+   {
+    "name": "Chicken Tikka Chilli Garlic Momo",
+    "price": 179
+   }
+  ]
+ },
+ {
+  "id": "manchurian-momo",
+  "name": "Manchurian Momo",
+  "items": [
+   {
+    "name": "Mutton Manchurian Momo",
+    "price": 249
+   },
+   {
+    "name": "Fish Manchurian Momo",
+    "price": 239
+   },
+   {
+    "name": "Veg Manchurian Momo",
+    "price": 139
+   },
+   {
+    "name": "Paneer Manchurian Momo",
+    "price": 159
+   },
+   {
+    "name": "Cheese Manchurian Momo",
+    "price": 159
+   },
+   {
+    "name": "Corn & Cheese Manchurian Momo",
+    "price": 169
+   },
+   {
+    "name": "Paneer Tikka Manchurian Momo",
+    "price": 179
+   },
+   {
+    "name": "Chicken Manchurian Momo",
+    "price": 159
+   },
+   {
+    "name": "Chicken & Cheese Manchurian Momo",
+    "price": 169
+   },
+   {
+    "name": "Chicken Tikka Manchurian Momo",
+    "price": 179
+   }
+  ]
+ },
+ {
+  "id": "thukpa",
+  "name": "Thukpa",
+  "items": [
+   {
+    "name": "Veg Thukpa",
+    "price": 149
+   },
+   {
+    "name": "Chicken Thukpa",
+    "price": 189
+   }
+  ]
+ },
+ {
+  "id": "momo-platter",
+  "name": "Momo Platter",
+  "items": [
+   {
+    "name": "Momo Platter",
+    "description": "Steamd ,Pan Fried , Kurkure",
+    "variants": [
+     {
+      "label": "Veg",
+      "price": 279
+     },
+     {
+      "label": "Non-Veg",
+      "price": 309
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "starters",
+  "name": "Starters",
+  "items": [
+   {
+    "name": "Green Salad",
+    "price": 49
+   },
+   {
+    "name": "Paneer Pakoda (8 pices)",
+    "price": 219
+   },
+   {
+    "name": "onion pakoda",
+    "price": 99
+   },
+   {
+    "name": "Paneer Cheese Blast",
+    "price": 199
+   },
+   {
+    "name": "Honey Chilli Potato",
+    "price": 199
+   },
+   {
+    "name": "Crispy Chilli Potato",
+    "price": 219
+   },
+   {
+    "name": "Crispy Chilli Babycorn",
+    "price": 219
+   },
+   {
+    "name": "Honey Chilli Babycorn",
+    "price": 199
+   }
+  ]
+ },
+ {
+  "id": "soup",
+  "name": "Soup",
+  "items": [
+   {
+    "name": "Veg Soup",
+    "diet": "veg",
+    "price": 50
+   },
+   {
+    "name": "Veg Manchow Soup",
+    "price": 129
+   },
+   {
+    "name": "Chicken Sweet Corn Soup",
+    "price": 169
+   },
+   {
+    "name": "Chicken Manchow Soup",
+    "price": 169
+   },
+   {
+    "name": "Chicken Sour Soup",
+    "price": 169
+   },
+   {
+    "name": "Veg Hot & Sour Soup",
+    "price": 139
+   },
+   {
+    "name": "Sweet Corn Soup",
+    "price": 139
+   }
+  ]
+ },
+ {
+  "id": "noodles",
+  "name": "Noodles",
+  "items": [
+   {
+    "name": "Mixed Hakka Noodles (egg+chicken)",
+    "price": 229
+   },
+   {
+    "name": "Veg Hakka Noodles (Half)",
+    "price": 79
+   },
+   {
+    "name": "Veg Hakka Noodles",
+    "price": 139
+   },
+   {
+    "name": "Veg Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 69
+     },
+     {
+      "label": "Full",
+      "price": 129
+     }
+    ]
+   },
+   {
+    "name": "Paneer Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 99
+     },
+     {
+      "label": "Full",
+      "price": 179
+     }
+    ]
+   },
+   {
+    "name": "Veg Chilli Garlic Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 89
+     },
+     {
+      "label": "Full",
+      "price": 159
+     }
+    ]
+   },
+   {
+    "name": "Veg Schezwan Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 89
+     },
+     {
+      "label": "Full",
+      "price": 159
+     }
+    ]
+   },
+   {
+    "name": "Paneer Chilli Garlic Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 109
+     },
+     {
+      "label": "Full",
+      "price": 199
+     }
+    ]
+   },
+   {
+    "name": "Paneer Schezwan Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 109
+     },
+     {
+      "label": "Full",
+      "price": 199
+     }
+    ]
+   },
+   {
+    "name": "Egg Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 89
+     },
+     {
+      "label": "Full",
+      "price": 159
+     }
+    ]
+   },
+   {
+    "name": "Chicken Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 99
+     },
+     {
+      "label": "Full",
+      "price": 179
+     }
+    ]
+   },
+   {
+    "name": "Mix Noodles (Egg + Chicken)",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 119
+     },
+     {
+      "label": "Full",
+      "price": 219
+     }
+    ]
+   },
+   {
+    "name": "Egg Chilli Garlic Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 109
+     },
+     {
+      "label": "Full",
+      "price": 199
+     }
+    ]
+   },
+   {
+    "name": "Egg Schezwan Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 109
+     },
+     {
+      "label": "Full",
+      "price": 199
+     }
+    ]
+   },
+   {
+    "name": "Chicken Chilli Garlic Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 119
+     },
+     {
+      "label": "Full",
+      "price": 219
+     }
+    ]
+   },
+   {
+    "name": "Chicken Schezwan Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 119
+     },
+     {
+      "label": "Full",
+      "price": 219
+     }
+    ]
+   },
+   {
+    "name": "Mix Chilli Garlic Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 139
+     },
+     {
+      "label": "Full",
+      "price": 259
+     }
+    ]
+   },
+   {
+    "name": "Mix Schezwan Noodles",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 139
+     },
+     {
+      "label": "Full",
+      "price": 259
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fried-rice",
+  "name": "Fried Rice",
+  "items": [
+   {
+    "name": "Veg Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 79
+     },
+     {
+      "label": "Full",
+      "price": 139
+     }
+    ]
+   },
+   {
+    "name": "Paneer Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 109
+     },
+     {
+      "label": "Full",
+      "price": 199
+     }
+    ]
+   },
+   {
+    "name": "Veg Chilli Garlic Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 99
+     },
+     {
+      "label": "Full",
+      "price": 179
+     }
+    ]
+   },
+   {
+    "name": "Veg Schezwan Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 99
+     },
+     {
+      "label": "Full",
+      "price": 179
+     }
+    ]
+   },
+   {
+    "name": "Paneer Chilli Garlic Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 119
+     },
+     {
+      "label": "Full",
+      "price": 219
+     }
+    ]
+   },
+   {
+    "name": "Paneer Schezwan Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 119
+     },
+     {
+      "label": "Full",
+      "price": 219
+     }
+    ]
+   },
+   {
+    "name": "Egg Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 99
+     },
+     {
+      "label": "Full",
+      "price": 179
+     }
+    ]
+   },
+   {
+    "name": "Chicken Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 109
+     },
+     {
+      "label": "Full",
+      "price": 199
+     }
+    ]
+   },
+   {
+    "name": "Mix Fried Rice (Egg + Chicken)",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 129
+     },
+     {
+      "label": "Full",
+      "price": 239
+     }
+    ]
+   },
+   {
+    "name": "Egg Chilli Garlic Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 119
+     },
+     {
+      "label": "Full",
+      "price": 219
+     }
+    ]
+   },
+   {
+    "name": "Egg Schezwan Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 119
+     },
+     {
+      "label": "Full",
+      "price": 219
+     }
+    ]
+   },
+   {
+    "name": "Chicken Chilli Garlic Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 129
+     },
+     {
+      "label": "Full",
+      "price": 239
+     }
+    ]
+   },
+   {
+    "name": "Chicken Schezwan Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 129
+     },
+     {
+      "label": "Full",
+      "price": 239
+     }
+    ]
+   },
+   {
+    "name": "Mix Chilli Garlic Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 149
+     },
+     {
+      "label": "Full",
+      "price": 279
+     }
+    ]
+   },
+   {
+    "name": "Mix Schezwan Fried Rice",
+    "variants": [
+     {
+      "label": "Half",
+      "price": 149
+     },
+     {
+      "label": "Full",
+      "price": 279
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "noodle-combos",
+  "name": "Noodle Combos",
+  "items": [
+   {
+    "name": "Veg Noodles + Veg Manchurian",
+    "price": 159
+   },
+   {
+    "name": "Veg Noodles + Chicken Manchurian",
+    "price": 179
+   },
+   {
+    "name": "Veg Noodles + Chilli Chicken",
+    "price": 179
+   },
+   {
+    "name": "Paneer Noodles + Veg Manchurian",
+    "price": 179
+   },
+   {
+    "name": "Paneer Noodles + Chicken Manchurian",
+    "price": 179
+   },
+   {
+    "name": "Paneer Noodles + Chilli Chicken",
+    "price": 199
+   },
+   {
+    "name": "Chicken Noodles + Veg Manchurian",
+    "price": 189
+   },
+   {
+    "name": "Chicken Noodles + Chicken Manchurian",
+    "price": 199
+   },
+   {
+    "name": "Chicken Noodles + Chilli Chicken",
+    "price": 199
+   },
+   {
+    "name": "Mix Noodles + Veg Manchurian",
+    "price": 209
+   },
+   {
+    "name": "Mix Noodles + Chicken Manchurian",
+    "price": 219
+   },
+   {
+    "name": "Mix Noodles + Chilli Chicken",
+    "price": 219
+   }
+  ]
+ },
+ {
+  "id": "fried-rice-combos",
+  "name": "Fried Rice Combos",
+  "items": [
+   {
+    "name": "Schezwan Fried Rice+ Veg Manchurian",
+    "price": 179
+   },
+   {
+    "name": "Chicken Schezwan Fried Rice+ Chilli Chicken",
+    "price": 209
+   },
+   {
+    "name": "Veg Fried Rice + Paneer Chilli",
+    "price": 189
+   },
+   {
+    "name": "Veg Fried Rice + Veg Manchurian",
+    "price": 159
+   },
+   {
+    "name": "Veg Fried Rice + Chicken Manchurian",
+    "price": 179
+   },
+   {
+    "name": "Veg Fried Rice + Chilli Chicken",
+    "price": 179
+   },
+   {
+    "name": "Paneer Fried Rice + Veg Manchurian",
+    "price": 179
+   },
+   {
+    "name": "Paneer Fried Rice + Chicken Manchurian",
+    "price": 199
+   },
+   {
+    "name": "Paneer Fried Rice + Chilli Chicken",
+    "price": 199
+   },
+   {
+    "name": "Chicken Fried Rice + Veg Manchurian",
+    "price": 189
+   },
+   {
+    "name": "Chicken Fried Rice + Chicken Manchurian",
+    "price": 199
+   },
+   {
+    "name": "Chicken Fried Rice + Chilli Chicken",
+    "price": 199
+   },
+   {
+    "name": "Mix Fried Rice + Veg Manchurian",
+    "price": 209
+   },
+   {
+    "name": "Mix Fried Rice + Chicken Manchurian",
+    "price": 219
+   },
+   {
+    "name": "Mix Fried Rice + Chilli Chicken",
+    "price": 219
+   }
+  ]
+ },
+ {
+  "id": "burgers",
+  "name": "Burgers",
+  "items": [
+   {
+    "name": "Paneer & Cheese Burger",
+    "price": 159
+   },
+   {
+    "name": "Chicken & Cheese Burger",
+    "price": 179
+   },
+   {
+    "name": "Cheese Burger",
+    "price": 129
+   },
+   {
+    "name": "Classic Veg Burger",
+    "price": 99
+   },
+   {
+    "name": "Paneer Burger",
+    "price": 139
+   },
+   {
+    "name": "Chicken Burger",
+    "price": 149
+   }
+  ]
+ },
+ {
+  "id": "fries",
+  "name": "Fries",
+  "items": [
+   {
+    "name": "Fish Fry (2 pcs)",
+    "price": 169
+   },
+   {
+    "name": "Fish Finger (5 pcs)",
+    "price": 199
+   },
+   {
+    "name": "French Fries",
+    "price": 119
+   }
+  ]
+ },
+ {
+  "id": "fried-chicken-bucket",
+  "name": "Fried Chicken Bucket",
+  "items": [
+   {
+    "name": "Strips (10 pcs)",
+    "price": 520
+   },
+   {
+    "name": "Wings (6 pcs)",
+    "price": 199
+   },
+   {
+    "name": "Thighs (4 pcs)",
+    "price": 390
+   },
+   {
+    "name": "Chicken Pakoda (8 pcs)",
+    "price": 249
+   },
+   {
+    "name": "Breast (4 pcs)",
+    "price": 510
+   }
+  ]
+ },
+ {
+  "id": "bucket-meals",
+  "name": "Bucket Meals",
+  "items": [
+   {
+    "name": "Strips Bucket",
+    "description": "Strips (6 pcs), Thigh (1), Leg (1), Wings (1), Mocktail (1)",
+    "price": 589
+   },
+   {
+    "name": "Chicken Popcorn",
+    "description": "Pakoda (3 Pcs), Wings (2 Pcs) , Legs( 1 Pcs), fries,Mocktails",
+    "price": 249
+   },
+   {
+    "name": "Whole Chicken Bucket",
+    "description": "Breast (2), Wings (2), Leg (2), Thigh (2), Mocktail (2), Cheese on top (+30)",
+    "price": 789
+   },
+   {
+    "name": "Mixed Chicken Bucket",
+    "description": "Strips (2), Pakoda (2), Leg, Thigh, Breast, Fries, Mocktail (2), Cheese (+30)",
+    "price": 679
+   }
+  ]
+ },
+ {
+  "id": "meal-combo",
+  "name": "Meal Combo",
+  "items": [
+   {
+    "name": "Veg Meal",
+    "description": "Veg Steam Momo (3 pcs), Veg Burger, French Fries, Mocktail, add on cheese / paneer @20",
+    "price": 219
+   },
+   {
+    "name": "Non-Veg Meal",
+    "description": "Chicken Steam Momo (3 pcs), Chicken Burger, French Fries, Mocktail ,add on cheese @20",
+    "price": 279
+   }
+  ]
+ },
+ {
+  "id": "mixed-combo",
+  "name": "Mixed Combo",
+  "items": [
+   {
+    "name": "Momo & Wings Combo",
+    "description": "Veg Momo (1 plate), Fried Wings- 2 pcs, French Fries, Mocktail",
+    "price": 349
+   },
+   {
+    "name": "Chinese Combo",
+    "description": "Veg Noodles/ Fried Rice, Chilli Chicken/ Chilli Paneer, Hot & Sour Soup, Mocktail",
+    "price": 509
+   },
+   {
+    "name": "Sandwich Combo",
+    "description": "Veg Sandwich , fried leg -1, french fries, mocktail",
+    "price": 309
+   }
+  ]
+ },
+ {
+  "id": "mocktail",
+  "name": "Mocktail",
+  "items": [
+   {
+    "name": "Mango Mocktail",
+    "price": 99
+   },
+   {
+    "name": "Pineapple Mocktail",
+    "price": 99
+   },
+   {
+    "name": "Orange Mocktail",
+    "price": 99
+   },
+   {
+    "name": "Strawberry Mocktail",
+    "price": 99
+   },
+   {
+    "name": "Mint Mojito",
+    "price": 99
+   },
+   {
+    "name": "Blue Lagoon",
+    "price": 99
+   }
+  ]
+ },
+ {
+  "id": "shakes",
+  "name": "Shakes",
+  "items": [
+   {
+    "name": "Chocolate Shake",
+    "price": 119
+   },
+   {
+    "name": "Pineapple Shake",
+    "price": 119
+   },
+   {
+    "name": "Orange Shake",
+    "price": 119
+   },
+   {
+    "name": "Mango Shake",
+    "price": 119
+   },
+   {
+    "name": "Vanilla Shake",
+    "price": 119
+   },
+   {
+    "name": "Oreo Shake",
+    "price": 119
+   },
+   {
+    "name": "Kitkat Shake",
+    "price": 119
+   }
+  ]
+ },
+ {
+  "id": "pasta",
+  "name": "Pasta",
+  "items": [
+   {
+    "name": "Veggies Pasta",
+    "price": 139
+   },
+   {
+    "name": "White Sauce Pasta",
+    "variants": [
+     {
+      "label": "Veg",
+      "price": 129
+     },
+     {
+      "label": "Non-Veg",
+      "price": 159
+     }
+    ]
+   },
+   {
+    "name": "Red Sauce Pasta",
+    "variants": [
+     {
+      "label": "Veg",
+      "price": 149
+     },
+     {
+      "label": "Non-Veg",
+      "price": 169
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sandwich",
+  "name": "Sandwich",
+  "items": [
+   {
+    "name": "Corn & Cheese Sandwich",
+    "price": 139
+   },
+   {
+    "name": "Veg Sandwich",
+    "price": 79
+   },
+   {
+    "name": "Chesse Sandwich",
+    "price": 109
+   },
+   {
+    "name": "Paneer Sandwich",
+    "price": 119
+   },
+   {
+    "name": "Paneer cheese Sandwich",
+    "price": 139
+   },
+   {
+    "name": "Chicken Sandwich",
+    "price": 129
+   },
+   {
+    "name": "Chicken Cheese Sandwich",
+    "price": 159
+   }
+  ]
+ },
+ {
+  "id": "pav-bhaji",
+  "name": "Pav Bhaji",
+  "items": [
+   {
+    "name": "Extra Pav",
+    "diet": "veg",
+    "price": 25
+   },
+   {
+    "name": "Pav Bhaji",
+    "price": 89
+   },
+   {
+    "name": "Cheese Pav Bhaji",
+    "price": 119
+   },
+   {
+    "name": "Paneer Pav Bhaji",
+    "price": 129
+   }
+  ]
+ },
+ {
+  "id": "tandoori-momos",
+  "name": "Tandoori Momos",
+  "items": [
+   {
+    "name": "Veg Tandoori Momo Half",
+    "diet": "veg",
+    "price": 70
+   },
+   {
+    "name": "Paneer Tandoori Momo half",
+    "diet": "veg",
+    "price": 100
+   },
+   {
+    "name": "Chicken Tandoori Momo Half",
+    "diet": "non-veg",
+    "price": 80
+   },
+   {
+    "name": "Chicken & Cheese Tandoori Momo",
+    "price": 159
+   },
+   {
+    "name": "MuttonTandoori Momo",
+    "price": 239
+   },
+   {
+    "name": "Veg Tandoori Momo",
+    "price": 129
+   },
+   {
+    "name": "Paneer Tandoori Momo",
+    "price": 149
+   },
+   {
+    "name": "Cheese Tandoori Momo",
+    "price": 149
+   },
+   {
+    "name": "Corn & Cheese Tandoori Momo",
+    "price": 159
+   },
+   {
+    "name": "Paneer Tikka Tandoori Momo",
+    "price": 169
+   },
+   {
+    "name": "Chicken Tandoori Momo",
+    "price": 149
+   },
+   {
+    "name": "Fish Tandoori Momo",
+    "price": 229
+   },
+   {
+    "name": "Chicken Tikka Tandoori Momo",
+    "price": 169
+   }
+  ]
+ },
+ {
+  "id": "sizzler-momo",
+  "name": "Sizzler Momo",
+  "items": [
+   {
+    "name": "Veg Sizzler Momo",
+    "price": 249
+   },
+   {
+    "name": "Cheese Sizzler Momo",
+    "price": 279
+   },
+   {
+    "name": "Paneer Sizzler Momo",
+    "price": 279
+   },
+   {
+    "name": "Chicken Sizzler Momo",
+    "price": 279
+   },
+   {
+    "name": "Chicken & Cheese Sizzler Momo",
+    "price": 299
+   }
+  ]
+ },
+ {
+  "id": "maggi",
+  "name": "Maggi",
+  "items": [
+   {
+    "name": "Plain Maggi",
+    "price": 69
+   },
+   {
+    "name": "Masala Maggi",
+    "price": 79
+   },
+   {
+    "name": "Masala Cheese Maggi",
+    "price": 99
+   },
+   {
+    "name": "Paneer Maggi",
+    "price": 89
+   },
+   {
+    "name": "Chicken Maggi",
+    "price": 89
+   },
+   {
+    "name": "Chicken & Cheese Maggi",
+    "price": 109
+   }
+  ]
+ },
+ {
+  "id": "rolls",
+  "name": "Rolls",
+  "items": [
+   {
+    "name": "Single Egg Chicken Roll",
+    "price": 109
+   },
+   {
+    "name": "Double egg roll stall",
+    "price": 70
+   },
+   {
+    "name": "Egg Roll Stall",
+    "price": 60
+   },
+   {
+    "name": "Veg Roll",
+    "price": 79
+   },
+   {
+    "name": "Paneer Roll",
+    "price": 89
+   },
+   {
+    "name": "Cheese Roll",
+    "price": 89
+   },
+   {
+    "name": "Paneer Tikka Roll",
+    "price": 99
+   },
+   {
+    "name": "Chilli Paneer Roll",
+    "price": 109
+   },
+   {
+    "name": "Egg Roll",
+    "price": 89
+   },
+   {
+    "name": "Chicken Roll",
+    "price": 99
+   },
+   {
+    "name": "Double Egg Roll",
+    "price": 109
+   },
+   {
+    "name": "Double Egg Chicken Roll",
+    "price": 119
+   },
+   {
+    "name": "Baba Roll",
+    "price": 129
+   }
+  ]
+ },
+ {
+  "id": "dessert",
+  "name": "Dessert",
+  "items": [
+   {
+    "name": "Ice Cream 6",
+    "price": 50
+   },
+   {
+    "name": "Ice Cream 4",
+    "price": 30
+   },
+   {
+    "name": "Rasmalaia ice cream",
+    "price": 55
+   },
+   {
+    "name": "Ice Cream 9",
+    "price": 25
+   },
+   {
+    "name": "Ice Cream",
+    "price": 35
+   },
+   {
+    "name": "Ice Cream 7",
+    "price": 60
+   },
+   {
+    "name": "Ice Cream 5",
+    "price": 40
+   },
+   {
+    "name": "Ice Cream 3",
+    "price": 20
+   },
+   {
+    "name": "Ice Cream 2",
+    "price": 40
+   },
+   {
+    "name": "Hot Brownie With Chocolate",
+    "price": 219
+   }
+  ]
+ },
+ {
+  "id": "pizza",
+  "name": "Pizza",
+  "items": [
+   {
+    "name": "Pocket Pizza",
+    "price": 89
+   },
+   {
+    "name": "Chicken Pizza (Large)",
+    "price": 249
+   },
+   {
+    "name": "Paneer Pocket Pizza",
+    "price": 99
+   },
+   {
+    "name": "Chicken & Cheese Pizza",
+    "price": 239
+   },
+   {
+    "name": "Chicken Pizza",
+    "diet": "non-veg",
+    "price": 199
+   },
+   {
+    "name": "Veg Pizza",
+    "diet": "veg",
+    "price": 159
+   },
+   {
+    "name": "Paneer Tikka Pizza",
+    "price": 219
+   },
+   {
+    "name": "Veg Cheese Pizza",
+    "price": 209
+   },
+   {
+    "name": "Chicken Tikka Pizza",
+    "price": 229
+   },
+   {
+    "name": "Margherita Pizza with Chicken Toppings",
+    "price": 219
+   },
+   {
+    "name": "Paneer Pizza",
+    "diet": "veg",
+    "price": 219
+   },
+   {
+    "name": "Veg Pizza (Large)",
+    "price": 239
+   },
+   {
+    "name": "Corn & Cheese Pizza",
+    "price": 199
+   },
+   {
+    "name": "Paneer Pizza (Large)",
+    "price": 279
+   },
+   {
+    "name": "Classic Margherita Pizza",
+    "price": 179
+   },
+   {
+    "name": "Corn & cheese Pizza (Large)",
+    "price": 249
+   },
+   {
+    "name": "Firm Fresh Pizza",
+    "price": 199
+   }
+  ]
+ },
+ {
+  "id": "coffee",
+  "name": "Coffee",
+  "items": [
+   {
+    "name": "Cold Coffee",
+    "diet": "veg",
+    "price": 109
+   },
+   {
+    "name": "Hot Coffee Small",
+    "price": 30
+   },
+   {
+    "name": "Hot Coffee",
+    "price": 50
+   }
+  ]
+ },
+ {
+  "id": "tea",
+  "name": "Tea",
+  "items": [
+   {
+    "name": "Chamomile Tea",
+    "price": 49
+   },
+   {
+    "name": "Tea Small",
+    "price": 20
+   },
+   {
+    "name": "Lemon Tea",
+    "price": 30
+   },
+   {
+    "name": "Darjeeling Tea",
+    "price": 49
+   },
+   {
+    "name": "Assam Black Tea",
+    "price": 49
+   },
+   {
+    "name": "Kashmiri Kahwa Tea",
+    "price": 49
+   },
+   {
+    "name": "Masala Tea",
+    "price": 49
+   },
+   {
+    "name": "Rose Mint Tea49",
+    "price": 49
+   },
+   {
+    "name": "Tea Stall",
+    "price": 10
+   },
+   {
+    "name": "Tea",
+    "price": 30
+   },
+   {
+    "name": "Oriental Blue Tea",
+    "price": 49
+   }
+  ]
+ },
+ {
+  "id": "water",
+  "name": "Water",
+  "items": [
+   {
+    "name": "Water(500ml)",
+    "price": 10
+   },
+   {
+    "name": "water(1000ml)",
+    "price": 20
+   }
+  ]
+ },
+ {
+  "id": "cold-drink's",
+  "name": "Cold Drink's",
+  "items": [
+   {
+    "name": "Red Bull",
+    "price": 125
+   },
+   {
+    "name": "Thumps Up 2ltr",
+    "price": 100
+   },
+   {
+    "name": "Cold Drink (250ml)",
+    "price": 20
+   },
+   {
+    "name": "MOCKTAIL (300ML)",
+    "price": 30
+   },
+   {
+    "name": "Cold Drink (750ml)",
+    "price": 40
+   },
+   {
+    "name": "BOBA DRINKS (300 ML)",
+    "price": 60
+   },
+   {
+    "name": "Diet Coka Tin",
+    "price": 50
+   }
+  ]
+ },
+ {
+  "id": "soya-chaap",
+  "name": "Soya Chaap",
+  "items": [
+   {
+    "name": "Malai Soya Chaap (Full)",
+    "diet": "veg",
+    "price": 239
+   },
+   {
+    "name": "Masala Soya Chaap (Full)",
+    "diet": "veg",
+    "price": 199
+   },
+   {
+    "name": "Malai Soya Chap (Half)",
+    "diet": "veg",
+    "price": 129
+   },
+   {
+    "name": "Masala Soya Chaap (Half)",
+    "diet": "veg",
+    "price": 109
+   }
+  ]
+ },
+ {
+  "id": "masala-cold-drink",
+  "name": "Masala Cold Drink",
+  "items": [
+   {
+    "name": "Lime Soda",
+    "diet": "veg",
+    "price": 50
+   },
+   {
+    "name": "Bottle (375ml)",
+    "price": 380
+   },
+   {
+    "name": "Bottle 180ml",
+    "price": 200
+   },
+   {
+    "name": "Can Beer",
+    "price": 110
+   },
+   {
+    "name": "Can Beer 2",
+    "price": 140
+   },
+   {
+    "name": "Masala Cold Drink",
+    "price": 49
+   },
+   {
+    "name": "Bottle beer",
+    "price": 170
+   }
+  ]
+ },
+ {
+  "id": "extra-cheese",
+  "name": "Extra Cheese",
+  "items": [
+   {
+    "name": "Extra Cheese",
+    "diet": "veg",
+    "price": 20
+   }
+  ]
+ },
+ {
+  "id": "popcorn",
+  "name": "Popcorn",
+  "items": [
+   {
+    "name": "chicken Masala Popcorn",
+    "description": "chicken Masala Popcorn 8 Pieces",
+    "diet": "non-veg",
+    "price": 279
+   }
+  ]
+ },
+ {
+  "id": "chicken-curry",
+  "name": "Chicken Curry",
+  "items": [
+   {
+    "name": "Chicken Curry (Full) 4",
+    "diet": "non-veg",
+    "price": 249
+   },
+   {
+    "name": "Chicken Curry (Half)",
+    "diet": "non-veg",
+    "price": 139
+   }
+  ]
+ },
+ {
+  "id": "chilli-mashroom",
+  "name": "Chilli Mashroom",
+  "items": [
+   {
+    "name": "Chilli Mashroom Dry",
+    "diet": "veg",
+    "price": 199
+   },
+   {
+    "name": "Chilli Mashroom Gravy",
+    "diet": "veg",
+    "price": 199
+   }
+  ]
+ },
+ {
+  "id": "chicken-lolipop",
+  "name": "Chicken Lolipop",
+  "items": [
+   {
+    "name": "Lolipop 4pcs",
+    "price": 180
+   },
+   {
+    "name": "Chicken Lolipop 3 pics(Half)",
+    "price": 135
+   },
+   {
+    "name": "Chicken Lolipop 6 pics",
+    "price": 249
+   }
+  ]
+ },
+ {
+  "id": "veg-biryani",
+  "name": "Veg Biryani",
+  "items": [
+   {
+    "name": "Veg Biryani (Half)",
+    "price": 99
+   },
+   {
+    "name": "Veg Biryani (Full)",
+    "price": 149
+   }
+  ]
+ },
+ {
+  "id": "chicken-biryani",
+  "name": "Chicken Biryani",
+  "items": [
+   {
+    "name": "Extra Chicken",
+    "price": 50
+   },
+   {
+    "name": "Chicken Biryani",
+    "price": 150
+   },
+   {
+    "name": "Mutton biryani",
+    "price": 200
+   },
+   {
+    "name": "Chicken Biryani + egg",
+    "price": 160
+   }
+  ]
+ },
+ {
+  "id": "egg-biryani",
+  "name": "Egg Biryani",
+  "items": [
+   {
+    "name": "Egg Biryani",
+    "price": 110
+   }
+  ]
+ },
+ {
+  "id": "roti",
+  "name": "ROTI",
+  "items": [
+   {
+    "name": "TAWA ROTI",
+    "price": 10
+   },
+   {
+    "name": "BUTTER TAWA ROTI",
+    "price": 15
+   }
+  ]
+ },
+ {
+  "id": "wraps",
+  "name": "Wraps",
+  "items": [
+   {
+    "name": "Cheese Wrap",
+    "price": 109
+   },
+   {
+    "name": "Onion and Capsicum Wrap",
+    "price": 89
+   },
+   {
+    "name": "Chicken Wrap",
+    "price": 119
+   },
+   {
+    "name": "Paneer Wrap",
+    "price": 119
+   },
+   {
+    "name": "Chicken & Cheese Wrap",
+    "price": 129
+   }
+  ]
+ },
+ {
+  "id": "papad",
+  "name": "Papad",
+  "items": [
+   {
+    "name": "Papad Chat",
+    "price": 50
+   },
+   {
+    "name": "Papad Fry / Dry",
+    "price": 20
+   },
+   {
+    "name": "Corn Chat",
+    "price": 109
+   },
+   {
+    "name": "Masala Papad",
+    "price": 50
+   }
+  ]
+ },
+ {
+  "id": "hot-gulab-jamun",
+  "name": "Hot Gulab Jamun",
+  "items": [
+   {
+    "name": "Hot Gulab Jamun",
+    "price": 45
+   }
+  ]
+ },
+ {
+  "id": "gravy-and-dry-item",
+  "name": "GRAVY & DRY ITEM",
+  "items": [
+   {
+    "name": "Dragon Chicken Full",
+    "price": 249
+   },
+   {
+    "name": "Dragon Chicken Half",
+    "price": 139
+   },
+   {
+    "name": "Chicken Manchurian (Half)",
+    "price": 139
+   },
+   {
+    "name": "Chilli Chicken (Full)",
+    "price": 269
+   },
+   {
+    "name": "Veg Manchurian Full",
+    "price": 209
+   },
+   {
+    "name": "Garlic Chicken",
+    "price": 289
+   },
+   {
+    "name": "Schezwan Paneer (Half)",
+    "price": 139
+   },
+   {
+    "name": "Hot Garlic Paneer (Half)",
+    "price": 149
+   },
+   {
+    "name": "Chilli Chicken (Half)",
+    "price": 139
+   },
+   {
+    "name": "Hot Garlic Chicken",
+    "price": 279
+   },
+   {
+    "name": "Chilli Paneer (Full)",
+    "price": 299
+   },
+   {
+    "name": "Chicken Dry Fry (Half)",
+    "price": 129
+   },
+   {
+    "name": "Chilli Chicken Bone (Full)",
+    "price": 249
+   },
+   {
+    "name": "Hot Garlic Paneer (Full)",
+    "price": 289
+   },
+   {
+    "name": "Chilli Paneer (Half)",
+    "price": 159
+   },
+   {
+    "name": "Paneer Manchurian",
+    "price": 289
+   },
+   {
+    "name": "Chicken Dry Fry (Full)",
+    "price": 259
+   },
+   {
+    "name": "Veg Manchurian (Half)",
+    "price": 109
+   },
+   {
+    "name": "Schezwan Chicken",
+    "price": 259
+   },
+   {
+    "name": "Chicken Manchurian (Full)",
+    "price": 269
+   },
+   {
+    "name": "Schezwan Paneer (Full)",
+    "price": 269
+   }
+  ]
+ },
+ {
+  "id": "indian-course",
+  "name": "INDIAN COURSE",
+  "items": [
+   {
+    "name": "Paneer Do Pyaaz",
+    "price": 239
+   },
+   {
+    "name": "Mushroom Do Pyaaz Half",
+    "price": 139
+   },
+   {
+    "name": "Chicken Butter Masala",
+    "price": 299
+   },
+   {
+    "name": "Chicken Kadai 4 pcs",
+    "price": 289
+   },
+   {
+    "name": "Dal Fry",
+    "price": 79
+   },
+   {
+    "name": "Fish Curry (6pics)",
+    "price": 269
+   },
+   {
+    "name": "Peas Pulao",
+    "price": 170
+   },
+   {
+    "name": "Chicken Kassa",
+    "price": 269
+   },
+   {
+    "name": "Sahi Paneer Half",
+    "price": 135
+   },
+   {
+    "name": "Paneer Do Pyaaz Half",
+    "price": 135
+   },
+   {
+    "name": "Aaloo Gobi Half",
+    "price": 89
+   },
+   {
+    "name": "Mix Veg Half",
+    "price": 99
+   },
+   {
+    "name": "Sahi Paneer",
+    "price": 250
+   },
+   {
+    "name": "Mix Veg",
+    "price": 189
+   },
+   {
+    "name": "Kadhai Chicken (4 pcs)",
+    "price": 289
+   },
+   {
+    "name": "Mushroom Masala Half",
+    "price": 129
+   },
+   {
+    "name": "Aaloo Matar",
+    "price": 149
+   },
+   {
+    "name": "Bread Omlet",
+    "price": 49
+   },
+   {
+    "name": "Paneer Masala Half",
+    "price": 125
+   },
+   {
+    "name": "Mushroom Masala",
+    "price": 249
+   },
+   {
+    "name": "Chicken Do Pyaaza",
+    "price": 259
+   },
+   {
+    "name": "Paneer Butter Masala Half",
+    "price": 149
+   },
+   {
+    "name": "Jeera Rice",
+    "price": 139
+   },
+   {
+    "name": "Dal Tadka",
+    "price": 140
+   },
+   {
+    "name": "Chicken Chaap (1pcs)",
+    "price": 120
+   },
+   {
+    "name": "Egg to Order",
+    "price": 49
+   },
+   {
+    "name": "Paneer Butter Masala",
+    "price": 249
+   },
+   {
+    "name": "Chana Masala Half",
+    "price": 119
+   },
+   {
+    "name": "Matar Paneer",
+    "price": 239
+   },
+   {
+    "name": "Stream Rice",
+    "price": 99
+   },
+   {
+    "name": "Mix Dal Tadka",
+    "price": 119
+   },
+   {
+    "name": "Aaloo Gobi",
+    "price": 159
+   },
+   {
+    "name": "Aaloo Parwal",
+    "price": 149
+   },
+   {
+    "name": "Gobi Masala",
+    "price": 179
+   },
+   {
+    "name": "Mushroom Do Pyaaz",
+    "price": 269
+   },
+   {
+    "name": "Egg Curry",
+    "price": 99
+   },
+   {
+    "name": "Handi Chicken",
+    "price": 299
+   },
+   {
+    "name": "Paneer Masala",
+    "price": 239
+   },
+   {
+    "name": "Chana Masala",
+    "price": 199
+   },
+   {
+    "name": "Kadhai Paneer",
+    "price": 239
+   },
+   {
+    "name": "Matar Paneer half",
+    "price": 129
+   }
+  ]
+ },
+ {
+  "id": "jhol-momo",
+  "name": "Jhol Momo",
+  "items": [
+   {
+    "name": "Chicken Jhol Momo",
+    "price": 169
+   },
+   {
+    "name": "Fish Jhol Momo",
+    "price": 249
+   },
+   {
+    "name": "Chicken & Cheese Jhol Momo",
+    "price": 179
+   },
+   {
+    "name": "Paneer Jhol Momo",
+    "price": 169
+   },
+   {
+    "name": "Veg Jhol Momo",
+    "price": 149
+   },
+   {
+    "name": "Chicken Tikka Jhol Momo",
+    "price": 189
+   },
+   {
+    "name": "Corn & Cheese Jhol Momo",
+    "price": 179
+   },
+   {
+    "name": "Cheese Jhol Momo",
+    "price": 169
+   },
+   {
+    "name": "Paneer Tikka Jhol Momo",
+    "price": 189
+   },
+   {
+    "name": "Mutton Jhol Momo",
+    "price": 259
+   }
+  ]
+ },
+ {
+  "id": "mutton",
+  "name": "MUTTON",
+  "items": [
+   {
+    "name": "Mutton Curry Half",
+    "price": 215
+   },
+   {
+    "name": "Mutton Chole Stall",
+    "price": 30
+   },
+   {
+    "name": "Mutton Curry (4 pics)",
+    "price": 379
+   },
+   {
+    "name": "Mutton Thali Combo",
+    "price": 500
+   }
+  ]
+ },
+ {
+  "id": "soyaa-chaap-combo",
+  "name": "SOYAA CHAAP COMBO",
+  "items": [
+   {
+    "name": "MALAI SOYA CHAAP COMBO 2",
+    "price": 169
+   },
+   {
+    "name": "MALAI SOYA CHAAP COMBO 1",
+    "price": 159
+   },
+   {
+    "name": "Masala Soya Chaap Combo 1",
+    "price": 139
+   },
+   {
+    "name": "MASALA SOYA CHAAP COMBO 2",
+    "price": 159
+   }
+  ]
+ },
+ {
+  "id": "chana-masala-combo",
+  "name": "CHANA MASALA COMBO",
+  "items": [
+   {
+    "name": "Parantha(2pics),Chana Masala",
+    "price": 169
+   },
+   {
+    "name": "Pita Bread(2pic),Chana Masala",
+    "price": 189
+   },
+   {
+    "name": "Pita Bread(2pic),Chana Masala, Masala soda",
+    "price": 209
+   },
+   {
+    "name": "Parantha(2pics),Chana Masala,Masala Soda",
+    "price": 189
+   }
+  ]
+ },
+ {
+  "id": "bao",
+  "name": "Bao",
+  "items": [
+   {
+    "name": "Paneer Bao",
+    "price": 99
+   },
+   {
+    "name": "Veg Bao",
+    "price": 75
+   },
+   {
+    "name": "Chicken Bao",
+    "price": 99
+   }
+  ]
+ },
+ {
+  "id": "burger-combos",
+  "name": "Burger Combos",
+  "items": [
+   {
+    "name": "Veg Burger Combo",
+    "price": 149
+   },
+   {
+    "name": "Non-Veg Burger Combo",
+    "price": 199
+   }
+  ]
+ },
+ {
+  "id": "breads",
+  "name": "BREADS",
+  "items": [
+   {
+    "name": "Plain Parantha",
+    "price": 20
+   },
+   {
+    "name": "Laccha Parantha",
+    "price": 30
+   },
+   {
+    "name": "Pita Bread",
+    "price": 40
+   }
+  ]
+ },
+ {
+  "id": "momo-pizza",
+  "name": "Momo Pizza",
+  "items": [
+   {
+    "name": "Paneer Momo Pizza",
+    "price": 179
+   },
+   {
+    "name": "Cheese Pizza Momo",
+    "price": 179
+   },
+   {
+    "name": "Veg Pizza Momo",
+    "price": 159
+   },
+   {
+    "name": "Fish Momo Pizza",
+    "price": 259
+   },
+   {
+    "name": "Chicken Tikka Momo Pizza",
+    "price": 199
+   },
+   {
+    "name": "Mutton Momo Pizza",
+    "price": 269
+   },
+   {
+    "name": "Paneer Tikka Pizza Momo",
+    "price": 199
+   },
+   {
+    "name": "Chicken Momo Pizza",
+    "price": 189
+   },
+   {
+    "name": "Corn & Cheese Pizza Momo",
+    "price": 189
+   },
+   {
+    "name": "Chicken & Cheese Momo Pizza",
+    "price": 209
+   }
+  ]
+ },
+ {
+  "id": "kurkure-burger",
+  "name": "Kurkure Burger",
+  "items": [
+   {
+    "name": "Veg Kurkure Burger",
+    "price": 129
+   },
+   {
+    "name": "Cheese Kurkure Burger",
+    "price": 159
+   },
+   {
+    "name": "Chicken Kurkure Burger",
+    "price": 179
+   },
+   {
+    "name": "Paneer & Cheese Kurkure Burger",
+    "price": 189
+   },
+   {
+    "name": "Paneer Kurkure Burger",
+    "price": 169
+   },
+   {
+    "name": "Chicken & Cheese Kurkure Burger",
+    "price": 209
+   }
+  ]
+ }
+]
